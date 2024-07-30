@@ -9,9 +9,9 @@ Framework              : Cucumber-BDD,TestNG
 
 Language               : Java-11,Gherkin
 
-Reporter               : Spark
+Reporter               : Extent - Spark
 
-Dependaency Management : Maven
+Dependency Management : Maven
 
 ##############################################
 Thanks for you Time, Happy Coding 🥇
